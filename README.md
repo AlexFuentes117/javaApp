@@ -1,1 +1,1 @@
-# javaApp
+Repositorio para ejemplicar el deployment de una aplicación (DayTrader7) en WebSphere Liberty Profile. Artefactos necesarios para crear un Dockerfile que construya un contenedor con lo necesario para que la aplicación pueda ser ejecutada.
